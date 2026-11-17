@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.dataforge",
+  "repo": "NDesumeur/neodex-plugin-dataforge-phone",
+  "version": "1.0.0",
+  "sha256": "c695ce2de3a47e2a16069bc25543e1e0a717da2c4416e808836d537af1978899",
+  "approvedAt": "2026-11-17T18:40:02.776Z",
+  "neobase": ">=4.0.0",
+  "signature": "E4m35q6H3Ff2vSl6m8vWRztFwnNwfkjxXd3gidtat29aDWOMTzaj2QH+/188xuRuesDOOVdzeMW/WSLNTvHfDA=="
+}
